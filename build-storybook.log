@@ -1,11 +1,13 @@
 @storybook/cli v7.0.6
 
+
 info => Cleaning outputDir: C:\\Users\\navee\\AppData\\Local\\Temp\\chromatic--19656-aVvb404xQREI
 info => Loading presets
 info => Building manager..
 info => Manager built (2.32 s)
 info => Copying static files: C:\MyWork\React\Storybook\taskbox\node_modules\@storybook\manager\static at C:\Users\navee\AppData\Local\Temp\chromatic--19656-aVvb404xQREI\sb-common-assets
 info => Copying static files: C:\MyWork\React\Storybook\taskbox\public at C:\Users\navee\AppData\Local\Temp\chromatic--19656-aVvb404xQREI\
+
 [36mvite v4.2.2 [32mbuilding for production...[36m[39m
 
 ./sb-common-assets/fonts.css doesn't exist at build time, it will remain unchanged to be resolved at runtime
@@ -78,10 +80,12 @@ computing gzip size...
 [2m../../../../Users/navee/AppData/Local/Temp/chromatic--19656-aVvb404xQREI/[22m[36massets/DocsRenderer-7FRJXR4N-7e5fbe95.js            [39m[1m[33m504.82 kB[39m[22m[2m │ gzip: 166.15 kB[22m[2m │ map: 1,435.35 kB[22m
 [2m../../../../Users/navee/AppData/Local/Temp/chromatic--19656-aVvb404xQREI/[22m[36massets/axe-a686be73.js                              [39m[1m[33m535.45 kB[39m[22m[2m │ gzip: 146.88 kB[22m[2m │ map: 1,917.98 kB[22m
 [2m../../../../Users/navee/AppData/Local/Temp/chromatic--19656-aVvb404xQREI/[22m[36massets/formatter-S4K5WUZV-5a715d11.js               [39m[1m[33m601.76 kB[39m[22m[2m │ gzip: 185.09 kB[22m[2m │ map: 1,315.96 kB[22m
+
 [33m
 (!) Some chunks are larger than 500 kBs after minification. Consider:
 - Using dynamic import() to code-split the application
 - Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
 - Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.[39m
+
 [32m✓[39m built in 48.86s
 info => Output directory: C:\\Users\\navee\\AppData\\Local\\Temp\\chromatic--19656-aVvb404xQREI
